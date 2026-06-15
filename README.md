@@ -1,7 +1,7 @@
 Automated Project Bootstrapping & Process Management
 ## Repository
 
-Repository Name: deploy_agent_liberykayitare
+Repository Name: deploy_agent_kayitarelibery
 ## Project Overview
 
 This project is an automated setup for a Student Attendance Tracker environment with a Shell script. The aim is to demonstrate Infrastructure as Code (IaC) principles by building the project structure, modifying configuration values, verifying the environment and dealing with user interruptions with signal trapping.
